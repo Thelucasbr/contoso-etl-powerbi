@@ -38,7 +38,7 @@ This project analyzes retail sales data from the fictional Contoso company using
 ## Files
 
 
-Sales_Analysis_powerbi.pbix – Power BI dashboard file.
+Sales_Analysis_POWER BI.pbix – Power BI dashboard file.
 
 powerbi_dashboard.png – Screenshot of the Power BI dashboard with key visuals.
 
