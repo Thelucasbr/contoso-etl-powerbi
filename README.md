@@ -1,78 +1,46 @@
-Python + Power BI Contoso Sales Analysis (2025)
+##Python + Power BI Contoso Sales Analysis (2025)
 
 This project analyzes retail sales data from the fictional Contoso company using Python for ETL and Power BI for data modeling and visualization. The focus is on generating key insights into product performance, revenue, and brand contribution.
 
-Objective:
+##Objective
 
-To clean, transform, and visualize sales data (~3.5 million rows) using Python and Power BI, delivering a dashboard that supports strategic business decisions.
+Clean, transform, and visualize sales data (~3.5 million rows).
 
-Highlights:
+Build a dashboard to support strategic decision-making.
 
-Cleaned and merged sales data using Python
-
-Created calculated columns:
-
-TotalCostCalc = UnitCost * SalesQuantity
-
-GrossProfit = SalesAmount - TotalCostCalc
+Simulate real-world data analysis tasks of a Data Analyst.
 
 
-Built key DAX measures in Power BI:
+##Tools Used
 
-Total Sales
+Python (Pandas) – For the entire ETL process: data extraction, cleaning, and transformation.
 
-Total Cost
+Power Query – For additional data shaping, filtering, and creating calculated columns before data modeling.
 
-Gross Profit
+Power BI – For data modeling with relationships, DAX measures, and building interactive dashboards.
 
-Sales Quantity
+##Key Insights
 
-Avg Ticket (Total Sales / Sales Quantity)
+Deluxe products represent 25% of units sold but generate 45% of total revenue, indicating strong pricing power.
 
+Contoso leads in both sales volume and revenue, showing brand dominance.
 
-Designed an interactive dashboard with slicers by Month, Class, and Brand
+Sales are significantly higher on weekdays, suggesting an opportunity to improve weekend sales with targeted campaigns.
 
-
-Key Insights:
-
-Deluxe products represent 25% of units sold, but generate 45% of total revenue, showing strong pricing power.
-
-Contoso is the clear leader in both sales volume and revenue, demonstrating strong brand dominance.
-
-Sales are significantly higher on weekdays, suggesting potential for growth with weekend promotions.
-
-A significant portion of revenue comes from the "Others" category, signaling a data governance issue that requires correction.
-
-
-![Picsart_25-05-22_13-06-24-788](https://github.com/user-attachments/assets/53b47420-df1b-45ea-8ab7-af9860d666cd)
+A significant portion of revenue comes from the "Others" category, indicating a data governance issue that requires attention.
 
 
 
+![Picsart_25-05-22_13-06-24-788](https://github.com/user-attachments/assets/777f1e0c-181b-4a30-9ab5-503f2a2dabb7)
 
 
-Dashboard Visuals:
 
-Total Sales and Avg Ticket by Product Class
-
-Units Sold by Workday vs. Weekend
-
-Sales Quantity by Brand
-
-Total Sales by Day and Month
-
-KPI cards: Total Sales, Units Sold, Unique Products
+##Files
 
 
-Technologies Used:
+Sales_Analysis_powerbi.pbix – Power BI dashboard file.
 
-Python (Pandas + Google Colab)
-
-Power BI (DAX + Power Query)
+powerbi_dashboard.png – Screenshot of the Power BI dashboard with key visuals.
 
 
-Files:
-
-PowerBI_Sales_Analysis.pbix– Clean dataset ready for Power BI
-
-powerbi_dashboard.png
 
