@@ -1,4 +1,4 @@
-# 3+ Million Rows Python ETL + Power BI Enterprise Sales Analysis 
+# 3+ Million Rows Python ETL, Power BI Enterprise Sales Analysis 
 
 This project analyzes retail sales data from the fictional Contoso company using Python for ETL and Power BI for data modeling and visualization. The focus is on generating key insights into product performance, revenue, and brand contribution.
 
