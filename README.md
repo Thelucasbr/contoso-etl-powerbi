@@ -4,30 +4,30 @@ This project analyzes retail sales data from the fictional Contoso company using
 
 ## Objective
 
-Clean, transform, and visualize sales data (~3.5 million rows).
+• Clean, transform, and visualize sales data (~3.5 million rows).
 
-Build a dashboard to support strategic decision-making.
+• Build a dashboard to support strategic decision-making.
 
-Simulate real-world data analysis tasks of a Data Analyst.
+• Simulate real-world data analysis tasks of a Data Analyst.
 
 
 ## Tools Used
 
-Python (Pandas) – For the entire ETL process: data extraction, cleaning, and transformation.
+• Python (Pandas) – For the entire ETL process: data extraction, cleaning, and transformation.
 
-Power Query – For additional data shaping, filtering, and creating calculated columns before data modeling.
+• Power Query – For additional data shaping, filtering, and creating calculated columns before data modeling.
 
-Power BI – For data modeling with relationships, DAX measures, and building interactive dashboards.
+• Power BI – For data modeling with relationships, DAX measures, and building interactive dashboards.
 
 ## Key Insights
 
-Deluxe products represent 25% of units sold but generate 45% of total revenue, indicating strong pricing power.
+• Deluxe products represent 25% of units sold but generate 45% of total revenue, indicating strong pricing power.
 
-Contoso leads in both sales volume and revenue, showing brand dominance.
+• Contoso leads in both sales volume and revenue, showing brand dominance.
 
-Sales are significantly higher on weekdays, suggesting an opportunity to improve weekend sales with targeted campaigns.
+• Sales are significantly higher on weekdays, suggesting an opportunity to improve weekend sales with targeted campaigns.
 
-A significant portion of revenue comes from the "Others" category, indicating a data governance issue that requires attention.
+• A significant portion of revenue comes from the "Others" category, indicating a data governance issue that requires attention.
 
 
 
