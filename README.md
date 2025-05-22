@@ -1,8 +1,8 @@
-##Python + Power BI Contoso Sales Analysis (2025)
+# Python + Power BI Contoso Sales Analysis 
 
 This project analyzes retail sales data from the fictional Contoso company using Python for ETL and Power BI for data modeling and visualization. The focus is on generating key insights into product performance, revenue, and brand contribution.
 
-##Objective
+## Objective
 
 Clean, transform, and visualize sales data (~3.5 million rows).
 
@@ -11,7 +11,7 @@ Build a dashboard to support strategic decision-making.
 Simulate real-world data analysis tasks of a Data Analyst.
 
 
-##Tools Used
+## Tools Used
 
 Python (Pandas) – For the entire ETL process: data extraction, cleaning, and transformation.
 
@@ -19,7 +19,7 @@ Power Query – For additional data shaping, filtering, and creating calculated 
 
 Power BI – For data modeling with relationships, DAX measures, and building interactive dashboards.
 
-##Key Insights
+## Key Insights
 
 Deluxe products represent 25% of units sold but generate 45% of total revenue, indicating strong pricing power.
 
@@ -35,7 +35,7 @@ A significant portion of revenue comes from the "Others" category, indicating a 
 
 
 
-##Files
+## Files
 
 
 Sales_Analysis_powerbi.pbix – Power BI dashboard file.
