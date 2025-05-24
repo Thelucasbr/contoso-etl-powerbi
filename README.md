@@ -31,8 +31,7 @@ This project analyzes retail sales data from the fictional Contoso company using
 
 
 
-![Picsart_25-05-22_13-06-24-788](https://github.com/user-attachments/assets/777f1e0c-181b-4a30-9ab5-503f2a2dabb7)
-
+![Picsart_25-05-24_14-43-50-097](https://github.com/user-attachments/assets/5262e417-f9b8-428a-8dfd-52ea7642839b)
 
 
 ## Files
